@@ -1,1 +1,2 @@
 This is the second file in the LocalRepo
+I am making changes in the second file.
